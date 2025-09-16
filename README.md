@@ -272,20 +272,3 @@ docker-compose up -d
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Contact the development team
-- Check the documentation
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT-4 API
-- Anthropic for Claude API
-- Material-UI for the design system
-- The open-source community for various dependencies
-
----
-
-**Built with ❤️ by the Dataplane Team**
