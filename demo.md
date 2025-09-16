@@ -211,6 +211,6 @@ For questions or assistance:
 
 ---
 
-**Built with ❤️ by the Dataplane Team**
+**Built with ❤️ by Kumar Swamy Mettela**
 
 *This demo showcases the core capabilities of the PRD Validation Tool. The production version includes additional enterprise features, advanced analytics, and custom integrations.*
