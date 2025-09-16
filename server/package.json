@@ -1,0 +1,36 @@
+{
+  "name": "prd-validation-server",
+  "version": "1.0.0",
+  "description": "Backend API for PRD Validation Tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.6.0",
+    "openai": "^4.20.1",
+    "@anthropic-ai/sdk": "^0.24.3",
+    "pg": "^8.11.3",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.3",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "joi": "^17.11.0",
+    "winston": "^3.11.0",
+    "compression": "^1.7.4",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "jest": "^29.7.0"
+  }
+}
