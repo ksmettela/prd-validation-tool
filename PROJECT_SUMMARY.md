@@ -222,6 +222,6 @@ The application is ready for immediate deployment and use, with comprehensive fe
 
 ---
 
-**Built with ❤️ by the Dataplane Team**
+**Built with ❤️ by Kumar Swamy Mettela**
 
 *This implementation represents a complete, functional PRD Validation Tool ready for production deployment and user adoption.*
